@@ -1,0 +1,4 @@
+- pipeline: lqgplspkcp
+  refs:
+  - refs/heads/master
+  on: CLICK
